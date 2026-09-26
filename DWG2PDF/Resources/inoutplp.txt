@@ -1,0 +1,13 @@
+Block
+Microsoft Print to PDF
+A3
+monochrome.ctb
+THACO A3
+Nomal
+1
+No
+Yes
+Yes
+ 
+Yes
+C:\Users\Vinh\Desktop\PDF files
